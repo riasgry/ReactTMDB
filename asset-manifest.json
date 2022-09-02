@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactTMDB/static/css/main.fd0b1db8.css",
+    "main.js": "/ReactTMDB/static/js/main.dcbb7bd4.js",
+    "index.html": "/ReactTMDB/index.html",
+    "main.fd0b1db8.css.map": "/ReactTMDB/static/css/main.fd0b1db8.css.map",
+    "main.dcbb7bd4.js.map": "/ReactTMDB/static/js/main.dcbb7bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0b1db8.css",
+    "static/js/main.dcbb7bd4.js"
+  ]
+}
